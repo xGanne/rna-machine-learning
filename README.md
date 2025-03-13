@@ -33,14 +33,14 @@ Os seguintes algoritmos de classificação foram implementados e avaliados:
 - **Acurácia**: 96.49%
 - **Relatório de Classificação**:
     ```
-                             precision    recall  f1-score   support
+                                precision    recall  f1-score   support
 
-                     0       0.97      0.97      0.97        71
-                     1       0.96      0.96      0.96        43
+                          0      0.97      0.97      0.97        71
+                          1      0.96      0.96      0.96        43
 
         accuracy                           0.96       114
-     macro avg       0.96      0.96      0.96       114
-weighted avg       0.96      0.96      0.96       114
+       macro avg       0.96      0.96      0.96       114
+    weighted avg       0.96      0.96      0.96       114
     ```
 - **Matriz de Confusão**:
     ```
